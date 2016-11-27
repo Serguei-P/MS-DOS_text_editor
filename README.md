@@ -2,7 +2,7 @@
 My very old code from circa 1994. A small and fast text editor - 76K or 96K depending on whether you build single or multiple file version,
 does not take much space on a floppy disk.
 
-This is writtent in Turbo-Pascal, can be downloaded from http://ccm.net/download/download-24152-turbo-pascal
+This is writtent in Turbo-Pascal (can be downloaded from http://ccm.net/download/download-24152-turbo-pascal) and Assembler
 Needs to run on MS-DOS (there are plenty emulators around, I tried this code on DOSBox on my Mac from: https://sourceforge.net/projects/dosbox/
 
 The application messages and comments in the application are in Russian (sorry for this) in MS-DOS code page.
